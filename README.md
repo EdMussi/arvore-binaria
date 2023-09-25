@@ -10,6 +10,7 @@ Insertion:
 Esta classe possui um método estático chamado insert(TreeNode root, int key) para inserir um valor na Árvore Binária de Busca.
 O método verifica se o nó atual é nulo. Se for, cria um novo nó com o valor e o retorna.
 Caso contrário, compara o valor a ser inserido com o valor do nó atual e chama recursivamente a inserção no filho correspondente.
+
 ![image](https://github.com/EdMussi/arvore-binaria/assets/107810558/5e26d5ae-0a68-48bd-9f0e-3ff8cfb4e94d)
 
 Deletion:
